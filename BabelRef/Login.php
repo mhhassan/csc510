@@ -6,7 +6,7 @@
 </form>
 
 <script type="text/javascript">
-
+//Changed
 function OnSubmit(){
 	var submitButton = document.getElementById('Submit');
 }
